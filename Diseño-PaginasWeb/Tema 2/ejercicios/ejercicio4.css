@@ -1,0 +1,37 @@
+body{
+
+    background-image: url(img_girl.jpg);
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    background-attachment: fixed;
+  }
+  
+  h1{
+  
+    font-size: 250%;
+    font-family: "Sofia", 'Times New Roman', Times, serif;
+    font-style: italic;
+    background-color:rgb(238, 170, 130);
+    opacity: 0.8;
+    color: rgb(168, 239, 27);
+  
+  }
+  
+  p{
+    font-family: "Roboto", 'Times New Roman', Times, serif;
+  
+    font-size:2em;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+  
+    color: rgb(22, 188, 234);
+  
+  }
+  
+  
+  em{
+  
+  color:#ff0404;
+  
+  
+  }

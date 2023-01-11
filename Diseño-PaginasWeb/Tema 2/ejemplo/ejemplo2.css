@@ -1,0 +1,15 @@
+.class{
+    font-family: Arial;
+    font-weight: 900;
+    color:#33a3ff;
+    background-color: #3cf907;
+
+}
+
+p.rojo{
+    font-family: Arial;
+    font-weight: 900;
+    color:#3cf907;
+    background-color: blue;
+
+}

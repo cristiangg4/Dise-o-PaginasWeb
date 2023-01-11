@@ -1,0 +1,25 @@
+h1{
+    color: darkred;
+    text-align: center;
+    text-transform: uppercase;
+    text-shadow: 1px 2px 5px green;
+}
+p{
+    text-align: justify;
+    text-indent: 100px;
+    
+}
+img{
+    vertical-align: text-top;
+    width: 20px;
+    height: 20px;
+}
+em{
+    text-decoration: underline;
+    text-transform: capitalize;
+    
+}
+
+a{
+    text-decoration: none;
+}

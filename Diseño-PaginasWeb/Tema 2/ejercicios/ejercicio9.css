@@ -1,0 +1,11 @@
+ol{
+    border-style: solid;
+    border-bottom: none;
+    border-top: none;
+    border-right: none;
+    background-color: rgb(189, 239, 239);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-left: 7px solid brown;
+
+}
